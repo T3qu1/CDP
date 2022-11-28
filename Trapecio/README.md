@@ -2,10 +2,10 @@
 
 _Elaborar un código el cual logre calcular el tiempo de calcular el area definida bajo una curva con el método del trapecio usando pool threads en golang.
 También demostrar una simulacion con gráficas osbre la cantidad de pool threads y la cantidad de trapecios usados.
-Por tercer y ultimo punto realizar una comunicacion de socket donde se enviará:
-  - Funcion a evaluar
-  - Puntos a y b 
-  - Direccion de la IP y el puerto_
+Por tercer y ultimo punto realizar una comunicacion de socket donde se enviará:_
+  _- Funcion a evaluar_
+  _- Puntos a y b _
+  _- Direccion de la IP y el puerto_
 
 ## Comenzando 🚀
 
