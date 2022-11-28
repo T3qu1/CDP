@@ -1,9 +1,12 @@
 # Regla del trapecio
 
-_Elaborar dos programas secuencial y paralelo para calcular el area definida bajo una curva con el método del trapecio.
-Comparar los tiempo de ejecución obtenidos y interpretar con una grafica los resultados_
+_Elaborar un código el cual logre calcular el tiempo de calcular el area definida bajo una curva con el método del trapecio usando pool threads en golang.
+También demostrar una simulacion con gráficas osbre la cantidad de pool threads y la cantidad de trapecios usados.
+Por tercer y ultimo punto realizar una comunicacion de socket donde se enviará:
+  - Funcion a evaluar
+  - Puntos a y b 
+  - Direccion de la IP y el puerto_
 
 ## Comenzando 🚀
 
-En este proyecto se demostrará lo aprendido de secuencial y paralela para desarrollar el ejercicio propuesto usando el lenguaje de Golang o cualquier lenguaje
-(recomendado usar Go), tambien habra evidencia de las gráficas obtenidas al usar estos flujos de control y se explicará cada uno de ellos 
+En este proyecto se demostrará lo aprendido de los pool thread para desarrollar el ejercicio propuesto usando el lenguaje de Golang, cabe resaltar que este repositorio solo cumplio con los primeros puntos
